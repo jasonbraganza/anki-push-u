@@ -1,7 +1,7 @@
 # anki-push-u
 
 Tiny script to regularly notify you of cards due in your Anki deck, via [Pushover](https://pushover.net/).  
-[Read more, on related blog post](https://janusworx.com/anki-push-u)
+[Read more, on the related blog post](https://janusworx.com/anki-push-u)
 
 ---
 
