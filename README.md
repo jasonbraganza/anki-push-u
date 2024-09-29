@@ -8,8 +8,6 @@ Tiny script to regularly notify you of cards due in your Anki deck, via [Pushove
 ![IMG_1497](https://github.com/user-attachments/assets/b4bfde10-a67c-4382-9d37-ae2d64bccb8a)
 
 ---
-Not yet ready for prime time.  
-Still a wip
 
 ## You need
 
